@@ -1,0 +1,10 @@
+.navbar {
+	margin-bottom: 50px;
+}
+
+.gameCard {
+	min-height: 100px;
+	margin-top: 20px;
+	background-color: hsl(0, 0%, 97%);
+	padding: 10px;
+}
